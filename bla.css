@@ -1,0 +1,33 @@
+body {
+    background: white;
+
+}
+
+.homeButton{
+    background-color: white;
+    color: black;
+    width: 100px;
+    height: 50px;
+    position: fixed;
+    z-index: 1;
+    top: 0px;
+    right: 0px;
+}
+
+button{
+    color: pink;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 20px;
+}
+
+.box img {
+    padding: 0 20px 20px 0;
+    width: 100px;
+    height: 100px;
+
+
+}
