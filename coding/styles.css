@@ -1,0 +1,94 @@
+body{
+    background-image: url("images/sunset.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.title{
+    color: black;
+    top: 30px;
+    left: 70px;
+}
+
+.homeButton{
+    background-color: black;
+    color: white;
+    width: 90px;
+    height: 40px;
+    position: fixed;
+    z-index: 1;
+    top: 0px;
+    right: 0px;
+}
+
+.linkList{
+    width: 135px;
+    height: 300px;
+    right: 0px;
+    top: 200px;
+    position: absolute;
+    background-color: grey;
+}
+
+.linkAllCountries{
+    background-color: black;
+    color: white;
+    width: 90px;
+    height: 40px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.linkPreferences{
+    background-color: black;
+    color: white;
+    width: 90px;
+    height: 40px;
+    position: absolute;
+    top: 70px;
+    right: 20px;
+}
+
+.linkSafety{
+    background-color: black;
+    color: white;
+    width: 90px;
+    height: 40px;
+    position: absolute;
+    top: 120px;
+    right: 20px;
+}
+
+.linkGeneralTips{
+    background-color: black;
+    color: white;
+    width: 90px;
+    height: 40px;
+    position: absolute;
+    top: 170px;
+    right: 20px;
+}
+
+
+.linkAbout{
+    background-color: black;
+    color: white;
+    width: 90px;
+    height: 40px;
+    position: absolute;
+    top: 220px;
+    right: 20px;
+}
+
+.allCountryList{
+    background-color: grey;
+    width: 800px;
+    height: 1600px;
+    position: absolute;
+    top: 100px;
+    left: 350px
+
+}
+
+<img src="picture.jpg" alt="picture" style="width:800px;height:600px;">
